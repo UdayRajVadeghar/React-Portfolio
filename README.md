@@ -1,4 +1,4 @@
-#Click Below to open the porfolio
+# Click Below to open the porfolio
 
 
 https://udayrajvadeghar.github.io/React-Portfolio/
