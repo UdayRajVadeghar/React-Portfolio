@@ -16,27 +16,27 @@ function AboutCard() {
             <br></br>
             <br />
             
-              In the midst of my third year at Amrita Vishwa Vidyapeetham, Chennai, I'm eager to explore roles in Software Development.
+              I/m a Fourth year student at Amrita Vishwa Vidyapeetham, Chennai, I'm eager to explore roles in Software Development.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Public Speaking
+              <ImPointRight /> Cubing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Vlogging
+              <ImPointRight /> Gaming
             </li>
             <li className="about-activity">
-              <ImPointRight /> Exploring the Web
+              <ImPointRight /> Cricket
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "You only need to be better than your yesterday self"{" "}
+            "Hardwork pays off"{" "}
           </p>
-          <footer className="blockquote-footer">Uday</footer>
+          {/*<footer className="blockquote-footer">uday</footer>*/}
         </blockquote>
       </Card.Body>
     </Card>
