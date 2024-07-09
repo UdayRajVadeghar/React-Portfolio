@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useEffect, useState } from "react";
 import {
-  Navigate,
+  Navigate, 
   Route,
   BrowserRouter as Router,
   Routes
